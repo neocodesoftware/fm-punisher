@@ -80,9 +80,8 @@ Punisher consists of four files:
 
 -   Punisher_small and Punisher_smaller are utility data files to give
     the scripts something to work with. These files are not going to
-    change often if at all, so you only need to download them once. Grab
-    the 7z archive from Dropbox folder, it contains these two
-    files: https://www.dropbox.com/s/0ckqo1u2lojk7ov/Punisher_utility_files.7z?dl=0
+    change often if at all, so you only need to download them once. They are
+    segmented in to 32 7z files.
 
 ![A screenshot of a cell phone Description automatically
 generated](media/punisher_2020-10-27_13-46-47.png)
